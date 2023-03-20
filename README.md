@@ -19,6 +19,8 @@ Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi d
 
 # License
 
-[MIT][def]
+[MIT](https://www.google.com)
 
-[def]: www.google.com
+# Picture
+
+![Lorem Picsum Gorsel](https://picsum.photos/id/237/200/300)
